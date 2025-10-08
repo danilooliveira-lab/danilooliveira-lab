@@ -1,4 +1,3 @@
-# danilooliveira
 
 # 👋 Olá, eu sou o Danilo Oliveira!
 
