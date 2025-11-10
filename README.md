@@ -5,8 +5,8 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 Apaixonado por tecnologia, aprendizado contínuo e desafios.
 
-### 🌱 Atualmente aprendendo:
-- Python (FastAPI, Flask)
+### 🌱 Atualmente me aprimorando em:
+- Python (FastAPI, Flask, Django)
 - SQL e Banco de Dados
 - Git, GitHub e versionamento de código
 - Boas práticas em API e Back-End
