@@ -43,7 +43,7 @@ Sou **Desenvolvedor Back-End em formação**, apaixonado por construir aplicaç�
 ### 📬 InboxLogic (FastAPI + AI)
 
 A technical case project focused on **email analysis**, **automated classification**, and **AI-generated insights**.
-Projeto desenvolvido para um case técnico real, focado em **análise de e-mails**, **classificação automática** e **geração de insights com IA**.
+Projeto desenvolvido para um case técnico real, focado em **análise de e-mails**, **classificação automática** e **geração de insights com IA**.  
 🔗 **View on GitHub / Ver no GitHub:** [https://github.com/danilooliveira-lab/inboxlogic](https://github.com/danilooliveira-lab/inboxlogic)
 
 ---
