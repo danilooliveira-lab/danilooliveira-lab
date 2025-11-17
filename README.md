@@ -51,7 +51,7 @@ Projeto desenvolvido para um case técnico real, focado em **análise de e-mails
 ### 💰 Financial Control System (Django + Bootstrap 5)
 
 A full-stack academic project focused on **financial education** and **user data privacy**.
-Projeto full-stack acadêmico com foco em **educação financeira** e **privacidade de dados**.
+Projeto full-stack acadêmico com foco em **educação financeira** e **privacidade de dados**.  
 🔗 **View on GitHub / Ver no GitHub:** [https://github.com/danilooliveira-lab/sistema_gestao_financeira](https://github.com/danilooliveira-lab/sistema_gestao_financeira)
 
 ---
