@@ -39,7 +39,13 @@ Sou **Desenvolvedor Back-End em formação**, apaixonado por construir aplicaç�
 
 ---
 
-### 💼 Highlight Project / Projeto em destaque
+### 💼 Highlight Projects / Projetos em destaque
+**📬 InboxLogic (FastAPI + AI)**
+
+A technical case project focused on **email analysis**, **automated classification** and **AI-generated insights**.
+Projeto desenvolvido para um case técnico real, focado em **análise de e-mails**, **classificação automática** e **geração de insights** com IA.
+🔗 [View on GitHub / Ver no GitHub](https://github.com/danilooliveira-lab/inboxlogic)
+
 **💰 Financial Control System (Django + Bootstrap 5)**  
 A full-stack academic project focused on **financial education** and **user data privacy**.  
 Projeto full-stack acadêmico com foco em **educação financeira** e **privacidade de dados**.  
